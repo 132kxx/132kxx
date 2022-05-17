@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<H1>MY STACK<H1>
+  
+![SWIFT](https://img.shields.io/badge/SWIFT-blue?style=for-the-badge&logo=Swift&logoColor=white)
